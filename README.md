@@ -62,27 +62,6 @@
 - [`counselor-student-system-testing`](https://github.com/xiaowenhao404/counselor-student-system-testing) — integration-testing build of the system above `2025.09 – 2025.12`
 - [`tetris-ai`](https://github.com/xiaowenhao404/tetris-ai) — web Tetris with a genetic-algorithm AI player `2025.02 – 2025.05`
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xiaowenhao404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaowenhao404&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=320" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=xiaowenhao404&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaowenhao404&theme=tokyo-night&hide_border=true&area=true&radius=6" />
-
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" />
 </div>
