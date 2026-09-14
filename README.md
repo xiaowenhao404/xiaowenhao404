@@ -4,6 +4,8 @@
 
 <div align="center">
 
+**English** | [简体中文](README.zh-CN.md)
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=CS+undergrad+at+NUIST%2C+Mitacs+Globalink+intern+%40+UBC;Teaching+agents+to+act+%E2%80%94+RL%2C+LLM+agents%2C+affective+vision;Ongoing+research+code+lives+in+a+private+repo)](https://git.io/typing-svg)
 
 </div>
@@ -32,19 +34,19 @@
 
 ## ⭐ Featured
 
-- [`uav-ppo-navigation`](https://github.com/xiaowenhao404/uav-ppo-navigation) — PPO-based deep RL for autonomous UAV navigation: 18-term composite reward, 2,048 parallel envs, four-stage curriculum. Success rate <1% → 85–95%. *National Third Prize*
+- [`grad-school-agent`](https://github.com/xiaowenhao404/grad-school-agent) — Multi-agent QA assistant on LangGraph: an 8-node `StateGraph` routes each turn through five specialist agents over hybrid RAG (BM25 + BGE + RRF) and an MCP-compatible tool layer, with full-chain graceful degradation and SSE streaming
+- [`uav-ppo-navigation`](https://github.com/xiaowenhao404/uav-ppo-navigation) — PPO-based deep RL for autonomous UAV navigation: 18-term composite reward (14 active), 2,048 parallel envs, four-stage curriculum. Success rate <1% → 85–95% under a one-collision-ends-the-episode rule. *National Third Prize*
+- [`realtime-sentiment-analysis`](https://github.com/xiaowenhao404/realtime-sentiment-analysis) — 8-container Kafka/Spark/HDFS streaming pipeline + fine-tuned Chinese-RoBERTa + FastAPI GPU microservice with dynamic batching (289 samples/s, 84 ms → 3.5 ms)
 - [`unlearnable-audio-protection`](https://github.com/xiaowenhao404/unlearnable-audio-protection) — Min-min unlearnable examples for audio, bridged to the image domain via a "mel-spectrogram-as-image" transfer and validated on GTZAN
-- [`realtime-sentiment-analysis`](https://github.com/xiaowenhao404/realtime-sentiment-analysis) — 8-container Kafka/Spark/HDFS streaming pipeline + fine-tuned Chinese-RoBERTa + FastAPI GPU microservice (289 samples/s, 84 ms → 3.5 ms)
-- [`grad-school-agent`](https://github.com/xiaowenhao404/grad-school-agent) — Multi-agent QA assistant on LangGraph: a router agent dispatching to four specialist sub-agents over hybrid RAG and an MCP-compatible tool layer
 
 ## 📂 Projects by Domain
 
 ### 🤖 Reinforcement Learning
 - [`uav-ppo-navigation`](https://github.com/xiaowenhao404/uav-ppo-navigation) — PPO-Clip pipeline for a 3D continuous-control POMDP in Isaac Sim `2026.04 – 2026.06`
-- [The Pokémon Company – PTCG AI Battle Challenge](https://www.kaggle.com/xiaowenhao404) *(Kaggle)* — self-play battle agent bootstrapped from behaviour cloning on top-ladder replays `2026.06 – 2026.08`
+- [The Pokémon Company – PTCG AI Battle Challenge](https://www.kaggle.com/xiaowenhao404) *(Kaggle)* — self-play battle agent bootstrapped from behaviour cloning on 1.15M decisions mined from top-ladder replays — **Bronze Medal, 372 / 6,807** `2026.06 – 2026.08`
 
 ### 🧠 LLM & Agents
-- [`grad-school-agent`](https://github.com/xiaowenhao404/grad-school-agent) — LangGraph multi-agent QA assistant with hybrid RAG and MCP tool layer `2026.04 – 2026.06`
+- [`grad-school-agent`](https://github.com/xiaowenhao404/grad-school-agent) — LangGraph multi-agent QA assistant with hybrid RAG and an MCP-compatible tool layer `2026.04 – 2026.06`
 
 ### 👁 Computer Vision
 - [`3d-gaussian-splatting-viewer`](https://github.com/xiaowenhao404/3d-gaussian-splatting-viewer) — COLMAP SfM + custom gsplat trainer, FastAPI backend and React/Three.js viewer `2026.06 – 2026.07`
