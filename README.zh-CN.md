@@ -43,7 +43,7 @@
 
 ### 🤖 强化学习
 - [`uav-ppo-navigation`](https://github.com/xiaowenhao404/uav-ppo-navigation) —— Isaac Sim 中三维连续控制 POMDP 任务的 PPO-Clip 训练管线 `2026.04 – 2026.06`
-- [The Pokémon Company – PTCG AI Battle Challenge](https://www.kaggle.com/xiaowenhao404) *(Kaggle)* —— 以天梯高分回放挖掘的 115 万条决策做行为克隆冷启动的自博弈对战 Agent —— **铜牌，372 / 6,807** `2026.06 – 2026.08`
+- [`pokemon-tcg-ai-battle`](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle) *(Kaggle · The Pokémon Company)* —— 以天梯高分回放挖掘的 115 万条决策做行为克隆冷启动的自博弈对战 Agent —— **铜牌，372 / 6,807** `2026.06 – 2026.08`
 
 ### 🧠 大模型与 Agent
 - [`grad-school-agent`](https://github.com/xiaowenhao404/grad-school-agent) —— 基于 LangGraph、含 Hybrid RAG 与 MCP 兼容工具层的多 Agent 问答助手 `2026.04 – 2026.06`

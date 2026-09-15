@@ -43,7 +43,7 @@
 
 ### 🤖 Reinforcement Learning
 - [`uav-ppo-navigation`](https://github.com/xiaowenhao404/uav-ppo-navigation) — PPO-Clip pipeline for a 3D continuous-control POMDP in Isaac Sim `2026.04 – 2026.06`
-- [The Pokémon Company – PTCG AI Battle Challenge](https://www.kaggle.com/xiaowenhao404) *(Kaggle)* — self-play battle agent bootstrapped from behaviour cloning on 1.15M decisions mined from top-ladder replays — **Bronze Medal, 372 / 6,807** `2026.06 – 2026.08`
+- [`pokemon-tcg-ai-battle`](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle) *(Kaggle · The Pokémon Company)* — self-play battle agent bootstrapped from behaviour cloning on 1.15M decisions mined from top-ladder replays — **Bronze Medal, 372 / 6,807** `2026.06 – 2026.08`
 
 ### 🧠 LLM & Agents
 - [`grad-school-agent`](https://github.com/xiaowenhao404/grad-school-agent) — LangGraph multi-agent QA assistant with hybrid RAG and an MCP-compatible tool layer `2026.04 – 2026.06`
